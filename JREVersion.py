@@ -23,4 +23,6 @@ print('Current Java Release is: {}'.format(jre_version))
     a web browser or send an email, or post to slack or something.
 
     3. Get this working with GIT.
+
+    4. Maybe get it working in PyCharm too for that added Git integration?
 """
