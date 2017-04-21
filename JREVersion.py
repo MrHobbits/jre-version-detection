@@ -25,4 +25,7 @@ print('Current Java Release is: {}'.format(jre_version))
     3. Get this working with GIT.
 
     4. Maybe get it working in PyCharm too for that added Git integration?
+
+    5. I dont like PyCharm as much as I thought I would (I dont like the colors)
+    and it looks funny. what about Atom.io? Lets see if it works with GIT.
 """
