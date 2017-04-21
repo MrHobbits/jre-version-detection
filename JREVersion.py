@@ -21,4 +21,6 @@ print('Current Java Release is: {}'.format(jre_version))
 
     2. If the version is different, do something about it. Like launch
     a web browser or send an email, or post to slack or something.
+
+    3. Get this working with GIT.
 """
